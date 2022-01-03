@@ -6,6 +6,6 @@ database trong thư mục : App_Data
 
 demo: https://dkviet.com/
 
-Tải về: Link
+Tải về: Link http://j.gs/G7wc
 
 Ủng hộ cốc cà phê nhé: https://phongbv378846040.wordpress.com/
